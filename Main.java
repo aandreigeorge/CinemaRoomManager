@@ -94,7 +94,6 @@ public class Main {
                 if(totalSeatsInCinema < 61) {
                     totalIncome +=10;
                 } else {
-
                     if(i < frontHalf ) {
                         totalIncome +=10;
                     } else {
